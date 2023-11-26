@@ -4,3 +4,7 @@
 header,p{
     font-size: medium;
 }
+header,h1{
+    font-weight: bolder;
+    color: burlywood;
+}
